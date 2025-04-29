@@ -1,7 +1,7 @@
 # Hi there, I'm Angelos - aka root-dm 👋 
 
 - Backend Developer
-- Full-stack FiveM Developer
+- Full-stack Developer
 
 ### Connect with me:
 
